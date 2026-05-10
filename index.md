@@ -6,6 +6,5 @@ Welcome to my GitHub Pages website! This is where I'll keep all my practical wor
 
 
 ### 📌 About Me
-- **Student ID**: 2025xxxxxx
 - **Course**: BMI/IBI
 - **Year**: 2025
